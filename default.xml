@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://github.com/yifengyou" name="github_yifengyou" review="http://github.com" />
+
+  <default remote="github_yifengyou" revision="master" sync-j="4" />
+
+  <project name="repo" path="repo" groups="default" />
+
+</manifest>
